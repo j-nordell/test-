@@ -1,0 +1,10 @@
+QUESTION 2           [25 marks]  
+  
+Write a webpage that accepts and provides validation of user inputs for each of the following:  
+  
+ 4 digit pin  A yes/no checkbox ‘I wish to be contacted by email’  Email address (mandatory if the yes/no checkbox is yes, optional otherwise)  A radio button for pet (values: dog, cat, other)  Other Pet Type (mandatory (and 6 characters max) if radio button is other, otherwise other pet type should be blank).  
+  
+When the user presses Submit, the webpage should validate all inputs and inform the user of any errors. If the inputs were valid, the webpage should display a message to the user saying ‘Inputs are Valid’.  
+The webpage must include:  
+  
+ HTML and JavaScript  A webpage title and metadata  An internal stylesheet as the sole use of styling for the webpage  A JavaScript function to validate the user inputs  Validation of all user inputs  User-friendly messages  
